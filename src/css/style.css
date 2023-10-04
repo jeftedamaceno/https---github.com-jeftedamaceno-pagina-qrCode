@@ -29,6 +29,6 @@ body{
 .imagem p{
     font-size: 15px;
     margin: 0px 20px 20px 20px;
-
+    opacity: 0.5;
 
 }
